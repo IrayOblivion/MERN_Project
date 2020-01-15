@@ -260,6 +260,11 @@ class Register extends Component {
               </MDBBtn>
             </MDBCol>
             </MDBRow>
+            <MDBCol>
+              <MDBRow>
+                <span>* brak przeniesienia na stronę z logowaniem świadczy o braku unikalności email</span>
+              </MDBRow>
+            </MDBCol>
         </form>
         <div className="text-center pt-3">
           <p>Rozmyśliłem się, zabierz mnie stąd...</p>
